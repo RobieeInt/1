@@ -41,5 +41,18 @@
     "autoprefixer": "^10.1.0",
     "postcss-cli": "^8.3.1",
     "tailwindcss": "^2.0.2"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobieeInt/1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobieeInt/1/issues"
+  },
+  "homepage": "https://github.com/RobieeInt/1#readme"
 }
